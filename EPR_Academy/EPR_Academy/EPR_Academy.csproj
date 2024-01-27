@@ -13,4 +13,12 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="API" />
+      <Folder Include="Domain\Dto" />
+      <Folder Include="Domain\Enums" />
+      <Folder Include="Repositories" />
+      <Folder Include="Services" />
+    </ItemGroup>
+
 </Project>
